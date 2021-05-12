@@ -6,6 +6,7 @@ public class Test {
 		
 		Calculator c= new Calculator();
 		System.out.println(c.add(12, 36));
+		System.out.println(c.substraction(12, 2));
 		
 	}
 
